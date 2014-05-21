@@ -137,5 +137,11 @@
             <groupId>commons-dbcp</groupId>
             <artifactId>commons-dbcp</artifactId>
         </dependency>
+        <!-- mysql:changes start -->
+        <dependency>        
+    		<groupId>mysql</groupId>
+    		<artifactId>mysql-connector-java</artifactId>
+		</dependency> 
+		<!-- mysql:changes finish -->
     </dependencies>
 </project>
