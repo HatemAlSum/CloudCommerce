@@ -1,4 +1,4 @@
-build.properties
+#build.properties
 target/
 .classpath
 .project
